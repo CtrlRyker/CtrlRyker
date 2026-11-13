@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://www.instagram.com/">
-  <img width="75" height="75" alt="8b141057-32be-4e14-8b54-7834045dbcfc" src="https://github.com/user-attachments/assets/94fb85cb-3016-4365-b1ef-6af91dc7a5fb" />
+  <img width="400" height="415" alt="91 - inssta" src="https://github.com/user-attachments/assets/87f5ad35-f8a1-47d0-b093-d8ac270c1445" />
 </a>
 <a href="https://www.youtube.com/@Rekyro">
   <img width="75" height="75" alt="91 - Copy (2)" src="https://github.com/user-attachments/assets/5c259409-0284-4d83-b05f-ec77e65454a1" />
