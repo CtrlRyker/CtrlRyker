@@ -17,7 +17,33 @@
 
 ---
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ⚙️
+I'm Ryker, a electromagnetic spectrum technician.
+
+I enjoy anything tech related.
+
+If tech can improve daily life functions, then I will build the schematics to do so. 
+
+I believe that you should work so hard that the evidence is indenialable.
+
+## Currently Learning ✍️
+- Networking
+- Packet Tracer
+
+## Plan on Learning 📘
+- AWS
+- Kubernetes
+- Docker
+
+## 2027 Goals 📋
+- Finish Bachelor's Information Technology Degree
+- Apply for a computer analysis job
+
+## Hobbies 🏋️‍♂️
+- The Gym
+- Art
+- Videography
+- Gaming
 
 
 
