@@ -2,7 +2,7 @@
 
 ---
 
-<p>
+<p align='center'>
 <a href="https://www.instagram.com/">
   <img width="75" height="75" alt="91 - inssta" src="https://github.com/user-attachments/assets/87f5ad35-f8a1-47d0-b093-d8ac270c1445" />
 </a>
