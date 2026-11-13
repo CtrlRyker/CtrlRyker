@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20There!%20👋&fontSize=90&fontColor=36454F" />
 
+<p>
 <a href="https://www.instagram.com/">
   <img width="50" height="50" alt="8b141057-32be-4e14-8b54-7834045dbcfc" src="https://github.com/user-attachments/assets/94fb85cb-3016-4365-b1ef-6af91dc7a5fb" />
 </a>
+</p>
 
 <!--
 **CtrlRyker/CtrlRyker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
