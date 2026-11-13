@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">
-  Reach me on 
+  Let's Talk! <img width="50" height="50" alt="10965346" src="https://github.com/user-attachments/assets/3ac96511-291c-4194-a6cf-a3a6fdcbaa41" />
+
 </h1>
 
 <p align='center'>
