@@ -7,7 +7,7 @@
   <img width="75" height="75" alt="8b141057-32be-4e14-8b54-7834045dbcfc" src="https://github.com/user-attachments/assets/94fb85cb-3016-4365-b1ef-6af91dc7a5fb" />
 </a>
 <a href="https://www.youtube.com/@Rekyro">
-  <img width="410" height="408" alt="91 - Copy (2)" src="https://github.com/user-attachments/assets/5c259409-0284-4d83-b05f-ec77e65454a1" />
+  <img width="75" height="75" alt="91 - Copy (2)" src="https://github.com/user-attachments/assets/5c259409-0284-4d83-b05f-ec77e65454a1" />
   
 </p>
 
